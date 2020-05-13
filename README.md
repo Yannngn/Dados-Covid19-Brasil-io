@@ -1,5 +1,8 @@
 # COVID19-io-
-COVID19 using brasil.io database
+Plotagem dos dados do COVID19 utilizando o database de casos_full.csv do Brasil.IO
+
+  Fonte: Secretarias de Saúde das Unidades Federativas, dados tratados por Álvaro Justen e equipe de voluntários Brasil.IO
+  Brasil.IO: boletins epidemiológicos da COVID-19 por município por dia, disponível em: https://brasil.io/dataset/covid19/
 
 # Graphics
 
