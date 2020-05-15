@@ -28,6 +28,12 @@ Plotagem dos dados do COVID19 utilizando o database de casos_full.csv do Brasil.
 ![10](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20soma.png)
 ![11](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20log.png)
 
+## Situação dos Estados por Milhão de Habitantes
+![1](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
+![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
+![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
+![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
+
 ## Regiões
 
 ### Nordeste
