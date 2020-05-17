@@ -3,6 +3,8 @@ Plotagem dos dados do COVID19 utilizando o database de casos_full.csv do Brasil.
 
   Fonte: Secretarias de Saúde das Unidades Federativas, dados tratados por Álvaro Justen e equipe de voluntários Brasil.IO
   Brasil.IO: boletins epidemiológicos da COVID-19 por município por dia, disponível em: https://brasil.io/dataset/covid19/
+  
+  Estimativas feitas usando o IFR disponibilizado pelo 21º Report do Imperial College de 8 de maio, 16 estados analizados com valores entre 0,7 (SP) e 1,2 (PB) calculados com base na idade e distribuição da população e indices de IDH / qualidade da saúde, os outros 8 estados + DF foram estimados usando a mediana (0,8).
 
 # Graphics
 
