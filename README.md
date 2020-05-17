@@ -6,6 +6,20 @@ Plotagem dos dados do COVID19 utilizando o database de casos_full.csv do Brasil.
 
 # Graphics
 
+## Comparativo
+
+### Por Milhão de Habitantes
+![1](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%201M.png)
+![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%201M.png)
+![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%201M.png)
+![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
+
+### Crescimento em 7 dias
+![5](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20semana.png)
+![6](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20semana.png)
+![7](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20semana.png)
+![8](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20semana.png)
+
 ## Brasil
 
 ### Casos Confirmados
@@ -27,12 +41,6 @@ Plotagem dos dados do COVID19 utilizando o database de casos_full.csv do Brasil.
 ![9](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil.png)
 ![10](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20soma.png)
 ![11](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20log.png)
-
-## Situação dos Estados por Milhão de Habitantes
-![1](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%201M.png)
-![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%201M.png)
-![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%201M.png)
-![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
 
 ## Regiões
 
