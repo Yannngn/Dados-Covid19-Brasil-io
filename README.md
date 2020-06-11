@@ -12,37 +12,40 @@ Plotagem dos dados do COVID19 utilizando o database de casos_full.csv do Brasil.
 
 ### Por Milhão de Habitantes
 ![1](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%201M.png)
-![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%201M.png)
-![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%201M.png)
-![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
+![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%201MH.png)
+![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%201M.png)
+![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%201M.png)
+![5](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%201M.png)
 
 ### Crescimento em 7 dias
-![5](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20semana.png)
-![6](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20semana.png)
-![7](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20semana.png)
-![8](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20semana.png)
+![6](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20semana.png)
+![7](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20semana.png)
+![8](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20semana.png)
+![9](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20semana.png)
 
 ## Brasil
 
 ### Casos Confirmados
 ![1](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Brasil.png)
-![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Brasil%20soma.png)
-![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Brasil%20log.png)
+![2](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Estimativa%20H.png)
+![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Estimativa.png)
+![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Brasil%20soma.png)
+![5](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Casos%20Confirmados%20Brasil%20log.png)
 
 ### Mortes Confirmadas
-![3](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20Brasil.png)
-![4](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20Brasil%20soma.png)
-![5](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20Brasil%20log.png)
+![6](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20Brasil.png)
+![7](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20Brasil%20soma.png)
+![8](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Óbitos%20Confirmados%20Brasil%20log.png)
 
 ### Novos Casos Confirmados
-![6](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20Brasil.png)
-![7](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20Brasil%20soma.png)
-![8](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20Brasil%20log.png)
+![9](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20Brasil.png)
+![10](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20Brasil%20soma.png)
+![11](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novos%20Casos%20Brasil%20log.png)
 
 ### Novas Mortes Confirmadas
-![9](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil.png)
-![10](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20soma.png)
-![11](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20log.png)
+![12](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil.png)
+![13](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20soma.png)
+![14](https://raw.githubusercontent.com/Yannngn/COVID19-io-/master/Graphics/Novas%20Mortes%20Brasil%20log.png)
 
 ## Regiões
 
